@@ -8,7 +8,7 @@
 ## Front-End
 *O front-end da aplicação foi desenvolvido em React, uma biblioteca JavaScript amplamente utilizada para criar interfaces de usuário interativas. Abaixo estão os principais componentes e funcionalidades do front-end:*
 
-### 💻Páginas Principais:
+### 💻Páginas Principais e outros:
 
 - ``Home``: *A página inicial, onde os usuários podem visualizar suas notas e filtrá-las com base em tags e pesquisa por título.*
 - ``New``: *Permite aos usuários criar novas notas, fornecendo campos para título, descrição, links e tags.*
@@ -18,32 +18,14 @@
 - `Roteamento`: O projeto utiliza React Router para gerenciar as rotas da aplicação, direcionando os usuários para as páginas apropriadas.
 - `Requisições à API`: As páginas fazem chamadas à API back-end para recuperar e atualizar dados, como notas e informações do usuário.
 
-## Back-End
-Embora a documentação do back-end específico não tenha sido fornecida, a aplicação requer um back-end para fornecer as seguintes funcionalidades essenciais:
-
-- ``Autenticação``: *O back-end deve oferecer autenticação de usuário, permitindo que os usuários façam login com segurança e mantenham sessões ativas.*
-- ``Gestão de Usuários``: *O back-end deve permitir o cadastro e atualização de informações de usuário, como nome, e-mail, senha e imagem de perfil.*
-- ``Gestão de Notas``: *Deve ser possível criar, editar, visualizar e excluir notas. As notas podem incluir títulos, descrições, links e tags.*
-- ``Pesquisa de Notas``: *Os usuários devem ser capazes de pesquisar notas com base em títulos e tags.*
-- ``Segurança``: *Deve haver medidas de segurança, como a geração e validação de tokens JWT (JSON Web Tokens) para proteger as rotas e dados sensíveis.*
-
 ## ✔️Tecnologias Utilizadas:
 
 ### Front-End:
 
 - ``React``: *Biblioteca JavaScript para construção de interfaces de usuário.*
 - ``React Router``: *Para gerenciar as rotas da aplicação.*
-- ``Estilos``: *Estilização feita com Styled Components.*
+- ``Styled Components``: *Para estilização de componentes em React.*
 - ``Axios``: *Biblioteca para fazer requisições à API.*
-
-### Back-End (Tecnologias comuns em projetos Node.js):
-
-- ``Node.js``: *Plataforma de execução JavaScript.*
-- ``Express``: *Framework Node.js para criação de APIs RESTful.*
-- ``Banco de Dados (não especificado)``: *Para armazenar informações de usuários e notas.*
-- ``JWT (JSON Web Tokens)``: *Para autenticação e segurança.*
-- ``Multer``: *Biblioteca para manipular uploads de arquivos, como imagens de perfil.*
-- ``Cors``: *Utilizado para habilitar as requisições entre origens (CORS) no servidor.*
 
 ### 📝Resumo 
 *"RocketNotes" é uma aplicação completa de gerenciamento de notas e links úteis que se baseia na tecnologia React no front-end e requer um back-end com funcionalidades de autenticação, gestão de usuários e notas, segurança e banco de dados. O projeto é uma solução eficaz para ajudar os usuários a organizar suas notas de maneira prática e eficiente.*
@@ -58,7 +40,6 @@ Para acessar o site do "Rocket Notes", você pode [clicar aqui](https://rocketno
       <a href="https://github.com/victorrmatt">
         <img src="https://github.com/victorrmatt.png" width="100px;" alt="Foto do Victor Mateus no GitHub"/><br>
         <sub>
-          <b>Victor Mateus</b>
         </sub>
         <p align="center">
           <a href="https://www.linkedin.com/in/victor-mateus/" alt="LinkedIn">
