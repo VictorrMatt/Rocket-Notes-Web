@@ -1,5 +1,5 @@
 # 🚀RocketNotes (Pc Only)
-<img src="imagem.png" alt="Exemplo imagem">
+![image](https://github.com/VictorrMatt/Rocket-Notes-Api/assets/98140122/f5cf99d6-6ef2-4db9-844a-49308728bda8)
 
 ### 🔨Visão Geral
 
